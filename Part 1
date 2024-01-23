@@ -1,0 +1,72 @@
+My game is going to be a 3D obstacle course.
+
+1. Develop Your Game's Concept:
+   
+- A 3D obstacle course with hazards and platforms.
+   - Classic WASD movement, press SPACEBAR to jump.
+Hazards will send the player back to the beginning of the course.
+
+
+2. Create an Initial Game Design Document (GDD):
+
+Game Design Document 
+
+Game Title: Low Poly Obby
+
+Concept:
+Obstacle Odyssey is a 3D obstacle course game where players navigate through challenging courses filled with hazards and platforms. The objective is to complete the course as quickly as possible without falling victim to the hazards. Players control a character using classic WASD movement and can jump using the SPACEBAR. Hazards encountered along the way will send the player back to the beginning of the course.
+
+Gameplay Mechanics:
+- Player movement: Use the WASD keys to control the character's movement in any direction.
+- Jumping: Press the SPACEBAR to make the character jump.
+- Hazards: Hazards are placed strategically throughout the course and can include obstacles like moving platforms, rotating blades, spikes, and pits.
+- Course Completion: The player's goal is to reach the end of each level by successfully navigating through all obstacles and hazards.
+
+Controls:
+- W: Move forward
+- A: Move left
+- S: Move backward
+- D: Move right
+- SPACEBAR: Jump
+
+Objectives:
+- Complete each level by reaching the end while avoiding hazards.
+- Achieve the fastest completion time for each level.
+- Collect power-ups (if implemented) for special abilities or advantages.
+
+Level Design:
+- Each level will have a unique layout and set of obstacles.
+- Levels will progressively increase in difficulty.
+- Consider implementing checkpoints to ease the player's frustration.
+- Levels can have themes or settings (e.g., jungle, space, underwater) for added variety.
+
+Target Platform(s):
+- Initially, target PC for Windows and macOS.
+- Consider mobile platforms for future development.
+
+Technical Requirements and Constraints:
+- Use a 3D game engine like Unity or Unreal Engine.
+- Ensure compatibility with both keyboard and gamepad controls.
+- Optimize graphics and performance for the targeted platforms.
+
+Development Timeline (Tentative):
+- Pre-production: Concept development, asset planning - 2 months
+- Production: Level design, asset creation, coding - 6 months
+- Testing and QA: Debugging, balancing, and playtesting - 2 months
+- Post-production: Polish, optimization, and final testing - 2 months
+
+Milestones:
+1. Complete concept and design phase.
+2. Implement player movement and basic level layout.
+3. Integrate hazards and obstacles into levels.
+4. Implement core gameplay mechanics.
+5. Create and integrate 3D models and textures.
+6. Polish and optimize the game.
+7. Perform comprehensive testing and bug fixing.
+8. Prepare for distribution on the chosen platforms.
+
+3. create and / or acquire assets (graphic and audio).
+
+Simple low poly graphics
+
+4. 
